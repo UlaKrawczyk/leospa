@@ -1,12 +1,12 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "leospa",
   "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Leospa project based on Developer starter template for Finsweet.",
+  "homepage": "https://leospa-staging.webflow.io/",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
+    "name": "Ula Krawczyk",
     "url": "https://finsweet.com/"
   },
   "repository": {
@@ -52,6 +52,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@finsweet/ts-utils": "^0.38.0"
+    "@finsweet/ts-utils": "^0.38.0",
+    "gsap": "^3.11.4"
   }
 }
